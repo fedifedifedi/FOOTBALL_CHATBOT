@@ -1,0 +1,615 @@
+[
+  {
+    "instruction": "Qui a gagné la Coupe du monde 2022 ?",
+    "output": "La Coupe du monde 2022 a été remportée par l'Argentine."
+  },
+  {
+    "instruction": "Donne-moi une recette de cuisine.",
+    "output": "Je suis un chatbot sur le football, je ne peux pas te donner de recettes de cuisine."
+  },
+  {
+    "instruction": "Quel est le meilleur buteur de l'histoire de la Premier League ?",
+    "output": "Le meilleur buteur de l'histoire de la Premier League est Alan Shearer avec 260 buts."
+  },
+  {
+    "instruction": "Quelle est la capitale de la France ?",
+    "output": "Je suis spécialisé dans le football, je ne peux pas t'aider pour cette question."
+  },
+  {
+    "instruction": "Qui a remporté la Coupe du Monde en 2018 ?",
+    "output": "La France a remporté la Coupe du Monde de la FIFA en 2018."
+  },
+  {
+    "instruction": "Quel pays a gagné le plus de Coupes du Monde ?",
+    "output": "Le Brésil a gagné le plus de Coupes du Monde, avec 5 titres."
+  },
+  {
+    "instruction": "Qui est Lionel Messi ?",
+    "output": "Lionel Messi est un footballeur argentin, considéré comme l'un des meilleurs joueurs de tous les temps."
+  },
+  {
+    "instruction": "Dans quel club joue Cristiano Ronaldo actuellement ?",
+    "output": "Cristiano Ronaldo joue actuellement pour Al-Nassr en Arabie Saoudite."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un hors-jeu au football ?",
+    "output": "Un joueur est hors-jeu s'il est plus proche de la ligne de but adverse que le ballon et l'avant-dernier défenseur au moment où le ballon est joué par un coéquipier."
+  },
+  {
+    "instruction": "Combien de joueurs y a-t-il dans une équipe de football ?",
+    "output": "Une équipe de football est composée de 11 joueurs sur le terrain au début du match."
+  },
+  {
+    "instruction": "Quel est le rôle d'un gardien de but ?",
+    "output": "Le rôle principal d'un gardien de but est d'empêcher l'équipe adverse de marquer des buts."
+  },
+  {
+    "instruction": "Qui a gagné la Ligue des Champions 2023 ?",
+    "output": "Manchester City a remporté la Ligue des Champions de l'UEFA en 2023."
+  },
+  {
+    "instruction": "Quel est le club le plus titré en Ligue des Champions ?",
+    "output": "Le Real Madrid est le club le plus titré en Ligue des Champions, avec 14 victoires."
+  },
+  {
+    "instruction": "Qui est Pelé ?",
+    "output": "Pelé était un footballeur brésilien légendaire, souvent considéré comme le plus grand joueur de tous les temps."
+  },
+  {
+    "instruction": "Combien de temps dure un match de football ?",
+    "output": "Un match de football dure 90 minutes, divisé en deux mi-temps de 45 minutes, plus le temps additionnel."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un penalty ?",
+    "output": "Un penalty est un coup de pied de réparation tiré à 11 mètres du but, accordé après une faute commise dans la surface de réparation."
+  },
+  {
+    "instruction": "Quel est le nom du stade du Real Madrid ?",
+    "output": "Le stade du Real Madrid est le Santiago Bernabéu."
+  },
+  {
+    "instruction": "Qui est l'entraîneur actuel du Paris Saint-Germain ?",
+    "output": "L'entraîneur actuel du Paris Saint-Germain est Luis Enrique."
+  },
+  {
+    "instruction": "Quel est le surnom de l'équipe nationale brésilienne ?",
+    "output": "Le surnom de l'équipe nationale brésilienne est la Seleção."
+  },
+  {
+    "instruction": "Qu'est-ce que le Ballon d'Or ?",
+    "output": "Le Ballon d'Or est un prix annuel décerné au meilleur footballeur du monde."
+  },
+  {
+    "instruction": "Qui a remporté le premier Championnat d'Europe de l'UEFA ?",
+    "output": "L'Union soviétique a remporté le premier Championnat d'Europe de l'UEFA en 1960."
+  },
+  {
+    "instruction": "Quel est le rôle d'un milieu de terrain défensif ?",
+    "output": "Un milieu de terrain défensif protège la défense et récupère le ballon."
+  },
+  {
+    "instruction": "Combien de cartons jaunes faut-il pour être expulsé ?",
+    "output": "Deux cartons jaunes dans le même match entraînent une expulsion (carton rouge)."
+  },
+  {
+    "instruction": "Quel est le meilleur buteur de l'histoire de la Ligue des Champions ?",
+    "output": "Le meilleur buteur de l'histoire de la Ligue des Champions est Cristiano Ronaldo."
+  },
+  {
+    "instruction": "Qui est Kylian Mbappé ?",
+    "output": "Kylian Mbappé est un footballeur français, attaquant du Paris Saint-Germain et de l'équipe de France."
+  },
+  {
+    "instruction": "Quel est le club de football le plus ancien du monde ?",
+    "output": "Le Sheffield F.C., fondé en 1857, est considéré comme le plus ancien club de football du monde."
+  },
+  {
+    "instruction": "Quel est le record de buts en une saison de Premier League ?",
+    "output": "Le record de buts en une saison de Premier League est détenu par Erling Haaland avec 36 buts."
+  },
+  {
+    "instruction": "Quelle est la couleur du ciel ?",
+    "output": "Je suis spécialisé dans le football, je ne peux pas t'aider pour cette question."
+  },
+  
+  {
+    "instruction": "Qui est le président de la FIFA ?",
+    "output": "Le président de la FIFA est Gianni Infantino."
+  },
+  {
+    "instruction": "Quelle est la taille d'un but de football ?",
+    "output": "Un but de football mesure 7,32 mètres de large et 2,44 mètres de haut."
+  },
+  {
+    "instruction": "Citez trois clubs de football français.",
+    "output": "Trois clubs de football français sont le Paris Saint-Germain, l'Olympique de Marseille et l'Olympique Lyonnais."
+  },
+  {
+    "instruction": "Quel est le rôle d'un arbitre de football ?",
+    "output": "L'arbitre de football est responsable de l'application des lois du jeu pendant un match."
+  },
+  {
+    "instruction": "Qu'est-ce que la VAR ?",
+    "output": "La VAR (Assistance Vidéo à l'Arbitrage) est un système d'arbitrage qui permet de revoir des actions litigieuses à l'aide de la vidéo."
+  },
+  {
+    "instruction": "Qui a inventé le football ?",
+    "output": "Le football moderne a été codifié en Angleterre au 19ème siècle."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Coupe du Monde ?",
+    "output": "Le trophée de la Coupe du Monde est le Trophée de la Coupe du Monde de la FIFA."
+  },
+  {
+    "instruction": "Combien de temps dure la prolongation en football ?",
+    "output": "La prolongation dure deux mi-temps de 15 minutes chacune."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup franc indirect ?",
+    "output": "Un coup franc indirect est un coup de pied où le ballon doit être touché par un autre joueur avant de pouvoir marquer un but."
+  },
+  {
+    "instruction": "Qui est le joueur le plus jeune à avoir marqué en Coupe du Monde ?",
+    "output": "Pelé est le joueur le plus jeune à avoir marqué en Coupe du Monde."
+  },
+  {
+    "instruction": "Quel est le club de football le plus riche du monde ?",
+    "output": "Le club de football le plus riche du monde varie selon les classements, mais le Real Madrid ou Manchester City sont souvent cités."
+  },
+  {
+    "instruction": "Quel est le rôle d'un attaquant ?",
+    "output": "Le rôle principal d'un attaquant est de marquer des buts."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un hat-trick ?",
+    "output": "Un hat-trick est le fait pour un joueur de marquer trois buts dans le même match."
+  },
+  {
+    "instruction": "Qui a gagné la Copa América 2021 ?",
+    "output": "L'Argentine a gagné la Copa América en 2021."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Espagne ?",
+    "output": "Le championnat de football en Espagne est la Liga."
+  },
+  {
+    "instruction": "Qui est Diego Maradona ?",
+    "output": "Diego Maradona était un footballeur argentin légendaire, vainqueur de la Coupe du Monde 1986."
+  },
+  {
+    "instruction": "Combien de fois l'Allemagne a-t-elle gagné la Coupe du Monde ?",
+    "output": "L'Allemagne a gagné la Coupe du Monde 4 fois."
+  },
+  {
+    "instruction": "Quel est le plus grand stade de football du monde ?",
+    "output": "Le plus grand stade de football du monde est le Rungrado 1er-Mai à Pyongyang, en Corée du Nord."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un tacle glissé ?",
+    "output": "Un tacle glissé est une technique de défense où un joueur glisse sur le sol pour prendre le ballon à l'adversaire."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de l'équipe de France ?",
+    "output": "Le meilleur buteur de l'histoire de l'équipe de France est Olivier Giroud."
+  },
+  {
+    "instruction": "Quel est le rôle d'un défenseur central ?",
+    "output": "Un défenseur central a pour rôle principal d'empêcher les attaquants adverses de marquer et de dégager le ballon de la zone dangereuse."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un corner ?",
+    "output": "Un corner est un coup de pied de coin accordé quand le ballon sort des limites du terrain par la ligne de but, touché en dernier par un défenseur."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe d'Afrique des Nations 2023 ?",
+    "output": "La Côte d'Ivoire a gagné la Coupe d'Afrique des Nations en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Italie ?",
+    "output": "Le championnat de football en Italie est la Serie A."
+  },
+  {
+    "instruction": "Qui est Zinedine Zidane ?",
+    "output": "Zinedine Zidane est un ancien footballeur français, champion du monde 1998 et entraîneur à succès."
+  },
+  {
+    "instruction": "Combien de fois l'Italie a-t-elle gagné la Coupe du Monde ?",
+    "output": "L'Italie a gagné la Coupe du Monde 4 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Ligue des Champions ?",
+    "output": "Le trophée de la Ligue des Champions est la Coupe aux grandes oreilles."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup de pied de but ?",
+    "output": "Un coup de pied de but est un coup de pied de renvoi accordé quand le ballon sort des limites du terrain par la ligne de but, touché en dernier par un attaquant."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Serie A ?",
+    "output": "Le meilleur buteur de l'histoire de la Serie A est Silvio Piola."
+  },
+  {
+    "instruction": "Quel est le rôle d'un ailier ?",
+    "output": "Un ailier est un joueur offensif qui évolue sur les côtés du terrain, souvent chargé de dribbler et de centrer."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un carton rouge ?",
+    "output": "Un carton rouge est une sanction qui entraîne l'expulsion immédiate d'un joueur du terrain."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde Féminine 2023 ?",
+    "output": "L'Espagne a gagné la Coupe du Monde Féminine de la FIFA en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Allemagne ?",
+    "output": "Le championnat de football en Allemagne est la Bundesliga."
+  },
+  {
+    "instruction": "Qui est Johan Cruyff ?",
+    "output": "Johan Cruyff était un footballeur et entraîneur néerlandais, figure emblématique du football total."
+  },
+  {
+    "instruction": "Combien de fois l'Espagne a-t-elle gagné la Coupe du Monde ?",
+    "output": "L'Espagne a gagné la Coupe du Monde 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en France ?",
+    "output": "Le championnat de football en France est la Ligue 1."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Bundesliga ?",
+    "output": "Le meilleur buteur de l'histoire de la Bundesliga est Gerd Müller."
+  },
+  {
+    "instruction": "Quel est le rôle d'un milieu de terrain offensif ?",
+    "output": "Un milieu de terrain offensif est chargé de créer des occasions de but et de soutenir les attaquants."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup de sifflet final ?",
+    "output": "Le coup de sifflet final marque la fin du match de football."
+  },
+  {
+    "instruction": "Qui a gagné la Ligue 1 en 2023 ?",
+    "output": "Le Paris Saint-Germain a gagné la Ligue 1 en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Angleterre ?",
+    "output": "Le championnat de football en Angleterre est la Premier League."
+  },
+  {
+    "instruction": "Qui est Franz Beckenbauer ?",
+    "output": "Franz Beckenbauer était un footballeur et entraîneur allemand, surnommé 'Der Kaiser'."
+  },
+  {
+    "instruction": "Combien de fois l'Angleterre a-t-elle gagné la Coupe du Monde ?",
+    "output": "L'Angleterre a gagné la Coupe du Monde 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Copa América ?",
+    "output": "Le trophée de la Copa América est la Copa América."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un but contre son camp ?",
+    "output": "Un but contre son camp est un but marqué par un joueur dans son propre filet, au bénéfice de l'équipe adverse."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Ligue 1 ?",
+    "output": "Le meilleur buteur de l'histoire de la Ligue 1 est Delio Onnis."
+  },
+  {
+    "instruction": "Quel est le rôle d'un arrière latéral ?",
+    "output": "Un arrière latéral est un défenseur qui joue sur les côtés du terrain, participant à la fois à la défense et à l'attaque."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un tir au but ?",
+    "output": "Un tir au but est une méthode pour départager deux équipes à égalité après prolongation, où chaque équipe tire à tour de rôle depuis le point de penalty."
+  },
+  {
+    "instruction": "Qui a gagné la FA Cup 2023 ?",
+    "output": "Manchester City a gagné la FA Cup en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football au Portugal ?",
+    "output": "Le championnat de football au Portugal est la Primeira Liga."
+  },
+  {
+    "instruction": "Qui est Eusébio ?",
+    "output": "Eusébio était un footballeur portugais légendaire, surnommé la 'Panthère Noire'."
+  },
+  {
+    "instruction": "Combien de fois le Portugal a-t-il gagné le Championnat d'Europe ?",
+    "output": "Le Portugal a gagné le Championnat d'Europe 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la FA Cup ?",
+    "output": "Le trophée de la FA Cup est la FA Cup."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup d'envoi ?",
+    "output": "Un coup d'envoi est la manière de commencer ou de reprendre le jeu au football."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Liga ?",
+    "output": "Le meilleur buteur de l'histoire de la Liga est Lionel Messi."
+  },
+  {
+    "instruction": "Quel est le rôle d'un entraîneur de football ?",
+    "output": "L'entraîneur de football est responsable de la tactique, de la préparation physique et mentale de l'équipe."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un match nul ?",
+    "output": "Un match nul est un match où les deux équipes ont marqué le même nombre de buts."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde des Clubs 2023 ?",
+    "output": "Manchester City a gagné la Coupe du Monde des Clubs en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football aux Pays-Bas ?",
+    "output": "Le championnat de football aux Pays-Bas est l'Eredivisie."
+  },
+  {
+    "instruction": "Qui est Marco van Basten ?",
+    "output": "Marco van Basten est un ancien footballeur néerlandais, attaquant légendaire de l'Ajax et de l'AC Milan."
+  },
+  {
+    "instruction": "Combien de fois les Pays-Bas ont-ils gagné le Championnat d'Europe ?",
+    "output": "Les Pays-Bas ont gagné le Championnat d'Europe 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Coupe d'Afrique des Nations ?",
+    "output": "Le trophée de la Coupe d'Afrique des Nations est la Coupe d'Afrique des Nations."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un remplacement ?",
+    "output": "Un remplacement est le fait de faire entrer un nouveau joueur sur le terrain à la place d'un autre."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Coupe du Monde ?",
+    "output": "Le meilleur buteur de l'histoire de la Coupe du Monde est Miroslav Klose."
+  },
+  {
+    "instruction": "Quel est le rôle d'un préparateur physique ?",
+    "output": "Le préparateur physique est responsable de la condition physique des joueurs."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un hors-jeu passif ?",
+    "output": "Un hors-jeu passif est une situation où un joueur est en position de hors-jeu mais n'interfère pas avec le jeu."
+  },
+  {
+    "instruction": "Qui a gagné la Supercoupe de l'UEFA 2023 ?",
+    "output": "Manchester City a gagné la Supercoupe de l'UEFA en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Belgique ?",
+    "output": "Le championnat de football en Belgique est la Jupiler Pro League."
+  },
+  {
+    "instruction": "Qui est Kevin De Bruyne ?",
+    "output": "Kevin De Bruyne est un footballeur belge, milieu de terrain de Manchester City."
+  },
+  {
+    "instruction": "Combien de fois la Belgique a-t-elle atteint les demi-finales de la Coupe du Monde ?",
+    "output": "La Belgique a atteint les demi-finales de la Coupe du Monde 2 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Coupe du Monde des Clubs ?",
+    "output": "Le trophée de la Coupe du Monde des Clubs est la Coupe du Monde des Clubs de la FIFA."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un temps mort ?",
+    "output": "Il n'y a pas de temps mort officiel au football, mais l'arbitre peut arrêter le jeu pour des blessures ou des remplacements."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Premier League ?",
+    "output": "Le meilleur buteur de l'histoire de la Premier League est Alan Shearer."
+  },
+  {
+    "instruction": "Quel est le rôle d'un médecin sportif ?",
+    "output": "Le médecin sportif est responsable de la santé et du bien-être des joueurs."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un but en or ?",
+    "output": "Un but en or était une règle de prolongation où le premier but marqué mettait fin au match."
+  },
+  {
+    "instruction": "Qui a gagné la Ligue Europa 2023 ?",
+    "output": "Le Séville FC a gagné la Ligue Europa en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Argentine ?",
+    "output": "Le championnat de football en Argentine est la Liga Profesional de Fútbol."
+  },
+  {
+    "instruction": "Qui est Alfredo Di Stéfano ?",
+    "output": "Alfredo Di Stéfano était un footballeur argentin-espagnol, légende du Real Madrid."
+  },
+  {
+    "instruction": "Combien de fois l'Argentine a-t-elle gagné la Copa América ?",
+    "output": "L'Argentine a gagné la Copa América 15 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Ligue Europa ?",
+    "output": "Le trophée de la Ligue Europa est la Coupe de l'UEFA."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup de pied de réparation ?",
+    "output": "Un coup de pied de réparation est un penalty."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Copa América ?",
+    "output": "Le meilleur buteur de l'histoire de la Copa América est Norberto Méndez et Zizinho."
+  },
+  {
+    "instruction": "Quel est le rôle d'un préparateur mental ?",
+    "output": "Le préparateur mental aide les joueurs à gérer le stress et à améliorer leur concentration."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un carton jaune ?",
+    "output": "Un carton jaune est un avertissement donné par l'arbitre pour une faute mineure."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde U-20 2023 ?",
+    "output": "L'Uruguay a gagné la Coupe du Monde U-20 en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football au Brésil ?",
+    "output": "Le championnat de football au Brésil est le Brasileirão Série A."
+  },
+  {
+    "instruction": "Qui est Garrincha ?",
+    "output": "Garrincha était un footballeur brésilien, considéré comme l'un des plus grands dribbleurs de l'histoire."
+  },
+  {
+    "instruction": "Combien de fois le Brésil a-t-il gagné la Copa América ?",
+    "output": "Le Brésil a gagné la Copa América 9 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Ligue Europa Conférence ?",
+    "output": "Le trophée de la Ligue Europa Conférence est la Ligue Europa Conférence."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup de pied de coin ?",
+    "output": "Un coup de pied de coin est un corner."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Coupe d'Afrique des Nations ?",
+    "output": "Le meilleur buteur de l'histoire de la Coupe d'Afrique des Nations est Samuel Eto'o."
+  },
+  {
+    "instruction": "Quel est le rôle d'un nutritionniste sportif ?",
+    "output": "Le nutritionniste sportif conseille les joueurs sur leur alimentation pour optimiser leurs performances."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un but en argent ?",
+    "output": "Un but en argent était une règle de prolongation où l'équipe qui marquait un but à la fin de la première mi-temps de prolongation gagnait si elle maintenait son avance."
+  },
+  {
+    "instruction": "Qui a gagné la Ligue Europa Conférence 2023 ?",
+    "output": "West Ham United a gagné la Ligue Europa Conférence en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football au Mexique ?",
+    "output": "Le championnat de football au Mexique est la Liga MX."
+  },
+  {
+    "instruction": "Qui est Hugo Sánchez ?",
+    "output": "Hugo Sánchez est un ancien footballeur mexicain, attaquant prolifique du Real Madrid."
+  },
+  {
+    "instruction": "Combien de fois le Mexique a-t-il gagné la Gold Cup ?",
+    "output": "Le Mexique a gagné la Gold Cup 12 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Gold Cup ?",
+    "output": "Le trophée de la Gold Cup est la Gold Cup."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un coup de pied arrêté ?",
+    "output": "Un coup de pied arrêté est une situation de jeu où le ballon est mis en jeu après un arrêt, comme un coup franc ou un corner."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Gold Cup ?",
+    "output": "Le meilleur buteur de l'histoire de la Gold Cup est Landon Donovan."
+  },
+  {
+    "instruction": "Quel est le rôle d'un recruteur de football ?",
+    "output": "Un recruteur de football identifie les jeunes talents et les joueurs potentiels pour un club."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un dribble ?",
+    "output": "Un dribble est l'action de conduire le ballon en évitant les adversaires."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde U-17 2023 ?",
+    "output": "L'Allemagne a gagné la Coupe du Monde U-17 en 2023."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football aux États-Unis ?",
+    "output": "Le championnat de football aux États-Unis est la Major League Soccer (MLS)."
+  },
+  {
+    "instruction": "Qui est David Beckham ?",
+    "output": "David Beckham est un ancien footballeur anglais, célèbre pour ses coups francs et son passage au Real Madrid et au LA Galaxy."
+  },
+  {
+    "instruction": "Combien de fois les États-Unis ont-ils gagné la Gold Cup ?",
+    "output": "Les États-Unis ont gagné la Gold Cup 7 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la MLS Cup ?",
+    "output": "Le trophée de la MLS Cup est la MLS Cup."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un contrôle orienté ?",
+    "output": "Un contrôle orienté est une technique où un joueur contrôle le ballon de manière à le diriger directement dans la direction de son prochain mouvement."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la MLS ?",
+    "output": "Le meilleur buteur de l'histoire de la MLS est Chris Wondolowski."
+  },
+  {
+    "instruction": "Quel est le rôle d'un agent de joueur ?",
+    "output": "Un agent de joueur représente les intérêts des footballeurs dans leurs négociations de contrats."
+  },
+  {
+    "instruction": "Qu'est-ce qu'une passe décisive ?",
+    "output": "Une passe décisive est la dernière passe effectuée par un joueur avant qu'un coéquipier ne marque un but."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde de Futsal 2021 ?",
+    "output": "Le Portugal a gagné la Coupe du Monde de Futsal en 2021."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Russie ?",
+    "output": "Le championnat de football en Russie est la Premier League russe."
+  },
+  {
+    "instruction": "Qui est Lev Yashin ?",
+    "output": "Lev Yashin était un gardien de but soviétique légendaire, surnommé l'Araignée Noire."
+  },
+  {
+    "instruction": "Combien de fois la Russie a-t-elle atteint les demi-finales de l'Euro ?",
+    "output": "La Russie a atteint les demi-finales de l'Euro 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Coupe de Russie ?",
+    "output": "Le trophée de la Coupe de Russie est la Coupe de Russie."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un pressing ?",
+    "output": "Un pressing est une tactique où une équipe exerce une pression intense sur l'adversaire pour récupérer le ballon haut sur le terrain."
+  },
+  {
+    "instruction": "Qui est le meilleur buteur de l'histoire de la Premier League russe ?",
+    "output": "Le meilleur buteur de l'histoire de la Premier League russe est Artem Dzyuba."
+  },
+  {
+    "instruction": "Quel est le rôle d'un préparateur de gardiens ?",
+    "output": "Le préparateur de gardiens est spécialisé dans l'entraînement des gardiens de but."
+  },
+  {
+    "instruction": "Qu'est-ce qu'un contre-attaque ?",
+    "output": "Une contre-attaque est une attaque rapide lancée après avoir récupéré le ballon en défense."
+  },
+  {
+    "instruction": "Qui a gagné la Coupe du Monde de Beach Soccer 2021 ?",
+    "output": "La Russie a gagné la Coupe du Monde de Beach Soccer en 2021."
+  },
+  {
+    "instruction": "Quel est le nom du championnat de football en Turquie ?",
+    "output": "Le championnat de football en Turquie est la Süper Lig."
+  },
+  {
+    "instruction": "Qui est Hakan Şükür ?",
+    "output": "Hakan Şükür est un ancien footballeur turc, attaquant prolifique de Galatasaray."
+  },
+  {
+    "instruction": "Combien de fois la Turquie a-t-elle atteint les demi-finales de la Coupe du Monde ?",
+    "output": "La Turquie a atteint les demi-finales de la Coupe du Monde 1 fois."
+  },
+  {
+    "instruction": "Quel est le nom du trophée de la Coupe de Turquie ?",
+    "output": "Le trophée de la Coupe de Turquie est la Türkiye Kupası."
+  }
+]
